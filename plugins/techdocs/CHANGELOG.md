@@ -1,5 +1,13 @@
 # @backstage/plugin-techdocs
 
+## 1.3.2-next.1
+
+### Patch Changes
+
+- 763fb81e82: Internal refactor to use more type safe code when dealing with route parameters.
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.1.4-next.1
+
 ## 1.3.2-next.0
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @backstage/plugin-cloudbuild
 
+## 0.3.9-next.1
+
+### Patch Changes
+
+- 763fb81e82: Internal refactor to use more type safe code when dealing with route parameters.
+- d669d89206: Minor API signatures cleanup
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.1.4-next.1
+
 ## 0.3.9-next.0
 
 ### Patch Changes

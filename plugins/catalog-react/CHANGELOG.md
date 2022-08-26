@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog-react
 
+## 1.1.4-next.1
+
+### Patch Changes
+
+- a6d551fad9: Properly handle free-text entity filtering in the case of empty tag arrays
+
 ## 1.1.4-next.0
 
 ### Patch Changes

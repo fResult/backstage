@@ -1,5 +1,12 @@
 # @backstage/plugin-gcalendar
 
+## 0.3.5-next.1
+
+### Patch Changes
+
+- d669d89206: Minor API signatures cleanup
+- a69ac5b63a: Upgrade `react-query:3` to `@tanstack/react-query:4`
+
 ## 0.3.5-next.0
 
 ### Patch Changes

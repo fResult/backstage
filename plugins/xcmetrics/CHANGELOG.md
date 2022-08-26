@@ -1,5 +1,11 @@
 # @backstage/plugin-xcmetrics
 
+## 0.2.29-next.1
+
+### Patch Changes
+
+- d669d89206: Minor API signatures cleanup
+
 ## 0.2.29-next.0
 
 ### Patch Changes

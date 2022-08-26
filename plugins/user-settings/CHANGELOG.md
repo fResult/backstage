@@ -1,5 +1,11 @@
 # @backstage/plugin-user-settings
 
+## 0.4.8-next.1
+
+### Patch Changes
+
+- d669d89206: Minor API signatures cleanup
+
 ## 0.4.8-next.0
 
 ### Patch Changes

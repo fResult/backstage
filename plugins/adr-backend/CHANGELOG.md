@@ -1,5 +1,11 @@
 # @backstage/plugin-adr-backend
 
+## 0.2.1-next.1
+
+### Patch Changes
+
+- b489de83b1: Continue processing subsequent entities when an error occurs in collator
+
 ## 0.2.1-next.0
 
 ### Patch Changes

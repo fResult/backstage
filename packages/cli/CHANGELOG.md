@@ -1,5 +1,11 @@
 # @backstage/cli
 
+## 0.18.2-next.1
+
+### Patch Changes
+
+- 33fbd9f9a4: Updated dependency `@types/minimatch` to `^5.0.0`.
+
 ## 0.18.2-next.0
 
 ### Patch Changes

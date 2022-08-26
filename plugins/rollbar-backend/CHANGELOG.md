@@ -1,5 +1,11 @@
 # @backstage/plugin-rollbar-backend
 
+## 0.1.33-next.1
+
+### Patch Changes
+
+- d669d89206: Minor API signatures cleanup
+
 ## 0.1.33-next.0
 
 ### Patch Changes

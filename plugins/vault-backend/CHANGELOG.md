@@ -1,5 +1,11 @@
 # @backstage/plugin-vault-backend
 
+## 0.2.2-next.1
+
+### Patch Changes
+
+- 148568b5c2: Switched to using node-fetch instead of cross-fetch as is standard for our backend packages
+
 ## 0.2.2-next.0
 
 ### Patch Changes

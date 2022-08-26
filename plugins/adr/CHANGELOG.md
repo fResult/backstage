@@ -1,5 +1,13 @@
 # @backstage/plugin-adr
 
+## 0.2.1-next.1
+
+### Patch Changes
+
+- b489de83b1: Fix parsing of ADR location which includes a trailing slash
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.1.4-next.1
+
 ## 0.2.1-next.0
 
 ### Patch Changes

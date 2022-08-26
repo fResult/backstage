@@ -1,5 +1,14 @@
 # @backstage/plugin-explore
 
+## 0.3.40-next.1
+
+### Patch Changes
+
+- d669d89206: Minor API signatures cleanup
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.1.4-next.1
+  - @backstage/plugin-explore-react@0.0.21-next.1
+
 ## 0.3.40-next.0
 
 ### Patch Changes

@@ -1,5 +1,11 @@
 # @backstage/plugin-app-backend
 
+## 0.3.36-next.1
+
+### Patch Changes
+
+- d669d89206: Minor API signatures cleanup
+
 ## 0.3.36-next.0
 
 ### Patch Changes

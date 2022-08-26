@@ -1,5 +1,11 @@
 # @backstage/plugin-shortcuts
 
+## 0.3.1-next.1
+
+### Patch Changes
+
+- d669d89206: Minor API signatures cleanup
+
 ## 0.3.1-next.0
 
 ### Patch Changes

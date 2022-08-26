@@ -1,5 +1,13 @@
 # @backstage/plugin-stack-overflow
 
+## 0.1.5-next.1
+
+### Patch Changes
+
+- a720c44070: Support showing HTML entity references from the API response before rendering the question title to the list component.
+- Updated dependencies
+  - @backstage/plugin-home@0.4.25-next.1
+
 ## 0.1.5-next.0
 
 ### Patch Changes

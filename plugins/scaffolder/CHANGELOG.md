@@ -1,5 +1,14 @@
 # @backstage/plugin-scaffolder
 
+## 1.6.0-next.1
+
+### Patch Changes
+
+- 763fb81e82: Internal refactor to use more type safe code when dealing with route parameters.
+- a66d44b72b: Fixing bug when the workspace would not be automatically saved when using `allowedOwners`
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.1.4-next.1
+
 ## 1.6.0-next.0
 
 ### Minor Changes

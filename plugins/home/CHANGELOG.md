@@ -1,5 +1,14 @@
 # @backstage/plugin-home
 
+## 0.4.25-next.1
+
+### Patch Changes
+
+- d669d89206: Minor API signatures cleanup
+- Updated dependencies
+  - @backstage/plugin-catalog-react@1.1.4-next.1
+  - @backstage/plugin-stack-overflow@0.1.5-next.1
+
 ## 0.4.25-next.0
 
 ### Patch Changes

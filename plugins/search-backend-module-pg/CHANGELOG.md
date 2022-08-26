@@ -1,5 +1,11 @@
 # @backstage/plugin-search-backend-module-pg
 
+## 0.4.0-next.1
+
+### Patch Changes
+
+- d669d89206: Minor API signatures cleanup
+
 ## 0.4.0-next.0
 
 ### Minor Changes

@@ -1,5 +1,11 @@
 # @backstage/plugin-explore-react
 
+## 0.0.21-next.1
+
+### Patch Changes
+
+- d669d89206: Minor API signatures cleanup
+
 ## 0.0.21-next.0
 
 ### Patch Changes

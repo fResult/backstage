@@ -1,5 +1,13 @@
 # @backstage/plugin-catalog-backend-module-bitbucket-server
 
+## 0.1.1-next.1
+
+### Patch Changes
+
+- 148568b5c2: Switched to using node-fetch instead of cross-fetch as is standard for our backend packages
+- Updated dependencies
+  - @backstage/plugin-catalog-backend@1.4.0-next.1
+
 ## 0.1.1-next.0
 
 ### Patch Changes
